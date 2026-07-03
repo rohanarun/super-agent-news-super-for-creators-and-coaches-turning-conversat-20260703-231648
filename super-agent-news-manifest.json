@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-in-gemini-35-flash/)",
+    "[memeburn.com](https://memeburn.com/2026/06/google-gives-gemini-3-5-flash-computer-use-for-ai-agents/)",
+    "[yahoo.com](https://finance.yahoo.com/news/servicenows-2-85-billion-moveworks-acquisition-set-to-revolutionize-ai-powered-workflow-automations-092400.html)",
+    "[scmedia.com](https://www.scmagazine.com/news/shell-injection-flaw-found-in-10-of-11-open-source-ai-agents)",
+    "[securityaffairs.com](https://securityaffairs.com/182791/security/guardfall-ai-agents.html)",
+    "[mit.edu](https://news.mit.edu/2026/qa-what-agentic-ai-today-and-what-do-we-want-it-be)"
+  ],
+  "design_plan": "rng_seed=42; architecture=reuse_comparison_layout; AIDA=pass; hero_lines=3; bento_density=grid-auto-flow:dense; competitors_sweep=pass; button_contrast=pass",
+  "generated_at": "2026-07-03T23:16:54.933017+00:00",
+  "headline": "Super for creators and coaches turning conversations into content and operations",
+  "site_brief": {
+    "audience": "creators and coaches turning conversations into content and operations",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "creators and coaches turning conversations into content and operations AI assistant",
+      "creators and coaches turning conversations into content and operations personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-creators-and-coaches-turning-conversations-into",
+    "title": "Super for creators and coaches turning conversations into content and operations"
+  },
+  "summary": "A conversion\u2011focused niche landing page that shows how Super turns calls, DMs, and coaching sessions into publishable content and repeatable operations \u2014 with real computer use and a reusable computer-use cache. Built in the same polished visual system as Super\u2019s comparison pages, with dense bento sections, evidence cards, and fair market context across ChatGPT, Gemini, Grok, Siri, Folk, and Orchids."
+}
